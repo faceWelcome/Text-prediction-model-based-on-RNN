@@ -27,4 +27,4 @@ RNN/ -> Includes models and training scripts.
 ults/ -> Stores results.
 You can run UsingTest.py directly to test a pre-trained lightweight model. Due to hardware limitations, the parameter tuning is relatively basic. You can retrain a model yourself by adjusting parameters and using better vocabularies and text.
 
-![image](https://github.com/faceWelcome/Text-prediction-model-based-on-RNN/tree/main/IMG)
+![image](https://github.com/faceWelcome/Text-prediction-model-based-on-RNN/blob/main/IMG/8f5a8c7d-1bd8-4350-af47-83f4c58de17c.png)
