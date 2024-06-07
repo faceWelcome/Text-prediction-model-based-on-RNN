@@ -16,3 +16,5 @@ catalogue-| data -----------> Glossary and training text
           | ults -----------> ults
 
 You can run UsingTest.py directly to test a pre-trained lightweight model. Due to hardware limitations, parameter tuning is relatively low. You can retrain a model yourself by adjusting parameters and better vocabularies and text.
+
+![image](https://github.com/faceWelcome/Text-prediction-model-based-on-RNN/blob/main/IMG/8f5a8c7d-1bd8-4350-af47-83f4c58de17c.png)
