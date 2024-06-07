@@ -8,8 +8,8 @@ embed_size = 100
 hidden_size = 128
 seq_length = 16
 
-save_path = r'F:\AI_Learn\RNN_model\parameter\model.pth'
-vocab_path = r'F:\AI_Learn\RNN_model\data\Vocabulary\fantastic\fantastic0.csv'
+save_path = r'F:\AI_Learn\The-most-basic-language-prediction-model\parameter\model.pth'
+vocab_path = r'F:\AI_Learn\The-most-basic-language-prediction-model\data\Vocabulary\fantastic\fantastic0.csv'
 if __name__ == '__main__':
 
     vocab_df = pd.read_csv(vocab_path, encoding='gbk', header=None)
