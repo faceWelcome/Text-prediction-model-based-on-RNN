@@ -12,6 +12,7 @@ For text prediction, there are three main steps:
 
 catalogue-| data -----------> Glossary and training text
           | parameter ------> Model parameter
-          | RNN ------------> Models, related tools, training scripts
+          | RNN ------------> Models, training scripts
+          | ults -----------> ults
 
 You can run UsingTest.py directly to test a pre-trained lightweight model. Due to hardware limitations, parameter tuning is relatively low. You can retrain a model yourself by adjusting parameters and better vocabularies and text.
